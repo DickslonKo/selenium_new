@@ -47,4 +47,4 @@ with DAG(
     task_id='selenium',
     name='selenium',
     namespace='default',
-    image='us.gcr.io/james-340405/selenium')
+    image='us.gcr.io/extended-pagoda-341105/selenium')
